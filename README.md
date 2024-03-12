@@ -49,3 +49,20 @@ JavaScript库：
 16. **stats.js**：一个用于测量和显示Web页面性能的库。
 17. **texgen.js**：一个用于生成纹理的库。
 18. **VolumetricFire**：一个用于创建体积火
+- three-mesh-bvh: 这个库提供了一种基于包围盒层次结构的高效碰撞检测算法，用于在Three.js中进行三角形网格的快速碰撞检测。
+
+- threeoctree: 这个库实现了八叉树数据结构，用于在Three.js中进行空间分区和快速的近邻搜索。
+
+- threejs-fast-raycast: 这个库提供了一种高效的射线投射算法，用于在Three.js中进行射线与物体的交互检测。
+
+- three-bvh: 这个库实现了包围体层次结构（Bounding Volume Hierarchy，BVH），用于在Three.js中进行高效的碰撞检测和射线投射。
+
+- three-csg: 这个库实现了几何形状的布尔运算，如并集、交集和差集，用于在Three.js中进行复杂形状的构建和编辑。
+
+- three.interaction: 这个库为Three.js提供了交互性能增强功能，包括鼠标和触摸事件的处理、拖拽和缩放等操作的支持。
+
+- three-stdlib: 这个库是Three.js的标准库，提供了一系列常用的工具函数、材质和效果，方便开发者在Three.js中快速构建场景和效果。
+
+- postprocessing: 这个库为Three.js提供了后期处理效果，如模糊、色彩调整、光照效果等，用于增强场景的视觉效果。
+
+- three.meshline: 这个库提供了一种绘制线条的方式，可以创建平滑的线条效果，用于在Three.js中绘制复杂的线条形状。
